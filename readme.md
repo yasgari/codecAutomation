@@ -37,12 +37,12 @@ $ pip3 install -r requirements.txt
 ```
 
 #### Create Excel Sheets
-* One Excel (xlsx) sheet should include the IP addresses, Username and Passwords for the codec that are targeted to be updated. Please name this file "names" (file extension 'xlsx') and formatted like so:
-    IP |  user |  password
+* One Excel (xlsx) sheet should include the IP addresses, Username and Passwords for the codec that are targeted to be updated. Please name this file "names" (file extension 'xlsx') and formatted like so:  
+  | IP |  user |  password  |
 
 
-* The second Excel (xlsx) sheet should include the Names and PMRs (URIs) that will be added to each codec. Please name this file "codecIPs" (file extension 'xlsx') and formatted like so:
-    Name | PMR
+* The second Excel (xlsx) sheet should include the Names and PMRs (URIs) that will be added to each codec. Please name this file "codecIPs" (file extension 'xlsx') and formatted like so:  
+  |  Name | PMR |
 
 
 Be sure to save these two Excel sheets in the same folder as this document (readme, addFinal.py)
