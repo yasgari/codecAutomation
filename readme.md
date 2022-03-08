@@ -36,7 +36,7 @@ Use pip3 to install the requirements listed in the requirements.txt file
 $ pip3 install -r requirements.txt
 ```
 
-#### Create Excel Sheets
+#### Create Excel Sheets (or use templates provided)
 * One Excel (xlsx) sheet should include the IP addresses, Username and Passwords for the codec that are targeted to be updated. Please name this file "names" (file extension 'xlsx') and formatted like so:  
   | IP |  user |  password  |
 
