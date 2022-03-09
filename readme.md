@@ -13,7 +13,7 @@ This script allows an agency to automate Name/PMR pairs for Webex Codec devices.
 
 #### Clone the repo
 ```
-$ git clone https://github.com/??
+$ git clone https://github.com/yasgari/codecAutomation
 ```
 
 #### Set up virtual environment
