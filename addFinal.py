@@ -164,5 +164,6 @@ def main():
         #add users/pmr grouping to the PMR folder
         for person in names:
             do_upload(codec, person, folderId)
-
+    
+    print("Finished executing script. Please view the newly made file in this folder titled 'addNamesPmrLogs.txt' to see the logs")
 main()
