@@ -11,10 +11,17 @@ This script allows an agency to automate Name/PMR pairs for Webex Codec devices.
 
 ## How to use
 
-#### Clone the repo
+#### Clone the repo OR click on the green button "Code" above, and download as a ZIP file, then unzip.
 ```
 $ git clone https://github.com/yasgari/codecAutomation
 ```
+
+#### Open up Terminal in the newly created folder (unzipped or cloned from Github)  
+
+
+#### Ensure Python3 is installed on your machine. Linux based OS have it by default, but Windows does not
+Link for how to install Python3 on your Windows machine: https://helpdeskgeek.com/how-to/how-to-use-python-on-windows/  
+
 
 #### Set up virtual environment
 Create and Enter a Virtual Environment (MacOS and Linux)
