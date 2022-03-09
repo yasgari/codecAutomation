@@ -60,3 +60,4 @@ $ python3 addFinal.py
 ```
 
 * The script will create a folder called "PMR" and then add the contacts supplied in the "names.xlsx" spreadsheet.
+* 'logs.txt' file will be created in the same folder. You can investigate the status of each API call to check for errors, etc. if needed.
