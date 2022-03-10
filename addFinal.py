@@ -36,7 +36,7 @@ print(names)
 def do_upload(aDestDevice, person, folderId):
 
         try:
-            Logfile="addNamesPmrLogs.txt"
+            Logfile="logs.txt"
             
             #create XML payload for adding a name and associating it with the PMR folder created earlier.
             payload = '''<?xml version="1.0"?>
@@ -113,7 +113,7 @@ def do_upload(aDestDevice, person, folderId):
 
 def createFolder(aDestDevice):
     try:
-            Logfile="createFolderLogs.txt"
+            Logfile="logs.txt"
             
             #XML payload for creating folder called 'PMR'
             payload = '''<?xml version="1.0"?>
@@ -145,6 +145,10 @@ def createFolder(aDestDevice):
             response = requests.request("POST", url, headers=headers, data=payload, verify=False)
             print(response.text)
 
+            with open(Logfile, "a+") as text_file:
+                text_file.write('Status of creating PMR folder on {}'.format( aDestDevice['IP']) + '\n')
+                text_file.write(response.text)
+
             #Grab the folderId to pass on the next function do_upload()
             root = ET.fromstring(response.content)
             print(root[0][0].text)
@@ -165,5 +169,5 @@ def main():
         for person in names:
             do_upload(codec, person, folderId)
     
-    print("Finished executing script. Please view the newly made file in this folder titled 'addNamesPmrLogs.txt' to see the logs")
+    print("Finished executing script. Please view the newly made file in this folder titled 'logs.txt' to see the logs")
 main()
