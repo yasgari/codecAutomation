@@ -1,0 +1,238 @@
+Status of creating PMR folder on 10.150.8.42
+<?xml version="1.0"?>
+<Command>
+<FolderAddResult status="OK">
+  <Name>localGroupId-51</Name>
+</FolderAddResult>
+</Command>
+
+The Status of adding contact Bridgette to Codec 10.150.8.42
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-52</Name>
+</ContactAddResult>
+</Command>
+Status of pairing Bridgette to their PMR bridgette@cisco.com on codec 10.150.8.42
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact yashar123 to Codec 10.150.8.42
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-53</Name>
+</ContactAddResult>
+</Command>
+Status of pairing yashar123 to their PMR yashar@cisco.com on codec 10.150.8.42
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact LuisV342 to Codec 10.150.8.42
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-54</Name>
+</ContactAddResult>
+</Command>
+Status of pairing LuisV342 to their PMR luisv657@cisco.com on codec 10.150.8.42
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact alex132 to Codec 10.150.8.42
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-55</Name>
+</ContactAddResult>
+</Command>
+Status of pairing alex132 to their PMR alex@cisco.com on codec 10.150.8.42
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+Status of creating PMR folder on 10.150.8.33
+<?xml version="1.0"?>
+<Command>
+<FolderAddResult status="OK">
+  <Name>localGroupId-25</Name>
+</FolderAddResult>
+</Command>
+
+The Status of adding contact Bridgette to Codec 10.150.8.33
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-26</Name>
+</ContactAddResult>
+</Command>
+Status of pairing Bridgette to their PMR bridgette@cisco.com on codec 10.150.8.33
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact yashar123 to Codec 10.150.8.33
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-27</Name>
+</ContactAddResult>
+</Command>
+Status of pairing yashar123 to their PMR yashar@cisco.com on codec 10.150.8.33
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact LuisV342 to Codec 10.150.8.33
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-28</Name>
+</ContactAddResult>
+</Command>
+Status of pairing LuisV342 to their PMR luisv657@cisco.com on codec 10.150.8.33
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact alex132 to Codec 10.150.8.33
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-29</Name>
+</ContactAddResult>
+</Command>
+Status of pairing alex132 to their PMR alex@cisco.com on codec 10.150.8.33
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+Status of creating PMR folder on 10.150.8.42
+<?xml version="1.0"?>
+<Command>
+<FolderAddResult status="OK">
+  <Name>localGroupId-58</Name>
+</FolderAddResult>
+</Command>
+
+The Status of adding contact Blake Long to Codec 10.150.8.42
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-59</Name>
+</ContactAddResult>
+</Command>
+Status of pairing Blake Long to their PMR blake@cisco.com on codec 10.150.8.42
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact Yashar to Codec 10.150.8.42
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-60</Name>
+</ContactAddResult>
+</Command>
+Status of pairing Yashar to their PMR yasgari@cisco.com on codec 10.150.8.42
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact Luis to Codec 10.150.8.42
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-61</Name>
+</ContactAddResult>
+</Command>
+Status of pairing Luis to their PMR luis@cisco.com on codec 10.150.8.42
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+Status of creating PMR folder on 10.150.8.33
+<?xml version="1.0"?>
+<Command>
+<FolderAddResult status="OK">
+  <Name>localGroupId-32</Name>
+</FolderAddResult>
+</Command>
+
+The Status of adding contact Blake Long to Codec 10.150.8.33
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-33</Name>
+</ContactAddResult>
+</Command>
+Status of pairing Blake Long to their PMR blake@cisco.com on codec 10.150.8.33
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact Yashar to Codec 10.150.8.33
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-34</Name>
+</ContactAddResult>
+</Command>
+Status of pairing Yashar to their PMR yasgari@cisco.com on codec 10.150.8.33
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
+
+The Status of adding contact Luis to Codec 10.150.8.33
+ |---->>><?xml version="1.0"?>
+<Command>
+<ContactAddResult status="OK">
+  <Name>localContactId-35</Name>
+</ContactAddResult>
+</Command>
+Status of pairing Luis to their PMR luis@cisco.com on codec 10.150.8.33
+<?xml version="1.0"?>
+<Command>
+<ContactMethodAddResult status="OK">
+  <Name>1</Name>
+</ContactMethodAddResult>
+</Command>
