@@ -16,7 +16,9 @@ This script allows an agency to automate Name/PMR pairs for Webex Codec devices.
 #### 1. Click on the green button "Code" above, and download as ZIP file. Unzip the folder.  
 #### 2. Navigate to the "Dist" folder then, "addFinal"
 #### 3. Open the "names.xlsx" and "codecIPs.xlsx" files. Names.xlsx is the file that you should add the employee's names and PMRs to (using the columns provided), codecIPs.xlsx is where you should input the IP's, username, and passwords for the codecs we'd like to push these contacts to. Be sure to save both files before proceeding.
-#### 4. Double click on "addFinal.exe" in the same folder, the program will run. 
+#### 4. Double click on "addFinal.exe" in the same folder, the program will run.   
+
+### Setting up Development environment (optional for Windows users)
 
 
 #### Clone the repo OR click on the green button "Code" above, and download as a ZIP file, then unzip.
