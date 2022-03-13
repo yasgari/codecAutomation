@@ -3,6 +3,11 @@ import requests
 import base64
 import pandas as pd
 import xml.etree.ElementTree as ET
+import urllib3
+
+
+#Silence SSL warnings
+urllib3.disable_warnings()
 
 
 d = pd.read_excel('codecIPs.xlsx').to_dict('index')
